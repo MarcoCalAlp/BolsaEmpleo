@@ -1,7 +1,7 @@
 # BolsaEmpleo
 Proyecto de Programacion IV , Ingenieria en Sistemas ,Universidad Nacional de Costa Rica
 
-Realizado usando el uso de los siguientes lenguajes y Tecnologias: HTML,JAVA,JSON,GSON,JAVASCRIPT,JQUERY,AJAX,SERVLETS,MYSQL,JDBC,Java Beans, Model View Controller
+Realizado con el uso de los siguientes lenguajes y Tecnologias: HTML,JAVA,JSON,GSON,JAVASCRIPT,JQUERY,AJAX,SERVLETS,MYSQL,JDBC,Java Beans, Model View Controller
 
 Algunos de los requisitos que debia tener el sistema son los siguientes:
 
